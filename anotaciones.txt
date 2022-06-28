@@ -1,3 +1,4 @@
 trabajando con el controlador de versiones GIT
-prueba de claudio
+prueba de claudio Rogel (agrege el apellido)
 solo 3 lineas y vamos viendo
+le agregamos otra linea
