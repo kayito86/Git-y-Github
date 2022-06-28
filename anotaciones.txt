@@ -2,3 +2,6 @@ trabajando con el controlador de versiones GIT
 prueba de claudio Rogel (agrege el apellido)
 solo 3 lineas y vamos viendo
 le agregamos otra linea
+
+ahora vamos a agrear un poco de descripcio:
+en GIT se pueden ver las versiones anteriores, pero como?
